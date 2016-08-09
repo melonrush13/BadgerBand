@@ -20,6 +20,8 @@ namespace WisconsinBand.Droid
 
 			base.OnCreate(bundle);
 
+			//test comment
+
 			global::Xamarin.Forms.Forms.Init(this, bundle);
 
 			LoadApplication(new App());
